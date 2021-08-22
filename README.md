@@ -1,2 +1,5 @@
-# uptime-website-v4
-⚡ Turkey's most advanced Uptime service. (bot &amp; website) (v4)
+# Uptime Website v4
+<a href="https://discord.gg/P578T3aYbj"><img src="http://invidget.switchblade.xyz/HWjPAAs9d3"/></a>
+
+### Creators / Developers
+👤 Eleven
