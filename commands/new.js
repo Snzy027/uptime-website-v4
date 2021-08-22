@@ -8,7 +8,7 @@ let user = message.author
 let splitted = args.join(" ").split(" - ")
 let linkname = splitted[0]
 let link = splitted[1]
-let log_channel_id = "861557802265870336"
+let log_channel_id = "LOG_CHANNEL_ID"
 if(!linkname) return message.channel.send(`Specify a Name! \`new-monitor name - url\``)
 if(!link) return message.channel.send(`Specify a URL! \`new-monitor name - url\``)
 
